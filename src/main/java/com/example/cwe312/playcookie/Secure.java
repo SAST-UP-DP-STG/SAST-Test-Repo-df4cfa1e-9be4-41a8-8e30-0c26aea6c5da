@@ -63,3 +63,5 @@ public class Secure {
     }
 }
 
+
+// Non-security edit: this trailing comment changes no data flow.
